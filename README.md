@@ -113,4 +113,5 @@ npm install
 
 Contract Address: 0x941D8A776DbB677714C131296bde321F44aed117
 ![Screenshot 2025-06-13 201917](https://github.com/user-attachments/assets/db15db8e-73ce-45d6-8701-6760260bef39)
+status: updated on 28aug 2025 no changes needed 
 
