@@ -2,7 +2,7 @@
 pragma solidity ^0.8.19;
 
 /**
- * @title Decentralized Voting System
+ * @title Decentralized Voting System 
  * @dev A smart contract for creating and managing decentralized polls and elections
  * @author Blockchain Developer
  */
